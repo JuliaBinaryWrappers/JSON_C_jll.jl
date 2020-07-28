@@ -1,0 +1,113 @@
+[[JSON_C]]
+arch = "aarch64"
+git-tree-sha1 = "9c98dd1df3a41c4965fb4c3f290f108ba5e5a0b0"
+libc = "glibc"
+os = "linux"
+
+    [[JSON_C.download]]
+    sha256 = "64051b281ff6d04610dcaf6405fb62dd62458f4183a34244b084069312d7b376"
+    url = "https://github.com/JuliaBinaryWrappers/JSON_C_jll.jl/releases/download/JSON_C-v0.15.0+0/JSON_C.v0.15.0.aarch64-linux-gnu.tar.gz"
+[[JSON_C]]
+arch = "aarch64"
+git-tree-sha1 = "5d91634ee73cd51eed4798991dc740f7aae4fbb4"
+libc = "musl"
+os = "linux"
+
+    [[JSON_C.download]]
+    sha256 = "aee89e7b49eca52f33ed12dfcb82f8c4588bd46e532a3a7bda85a238799a981c"
+    url = "https://github.com/JuliaBinaryWrappers/JSON_C_jll.jl/releases/download/JSON_C-v0.15.0+0/JSON_C.v0.15.0.aarch64-linux-musl.tar.gz"
+[[JSON_C]]
+arch = "armv7l"
+git-tree-sha1 = "84de8cc5adba6ba75449618ea70c8d22207e6dfd"
+libc = "glibc"
+os = "linux"
+
+    [[JSON_C.download]]
+    sha256 = "436427062ec31709fe2a4e696c1b5c19bb2a5444a97a7b269bf9bfe87a5e5d58"
+    url = "https://github.com/JuliaBinaryWrappers/JSON_C_jll.jl/releases/download/JSON_C-v0.15.0+0/JSON_C.v0.15.0.armv7l-linux-gnueabihf.tar.gz"
+[[JSON_C]]
+arch = "armv7l"
+git-tree-sha1 = "af31989daf467334ef72d1834385a250000158eb"
+libc = "musl"
+os = "linux"
+
+    [[JSON_C.download]]
+    sha256 = "91ad0744992b2b6665d6c9f13ead02ef1f0b09e798ec2877eccf875f0ccbf0b5"
+    url = "https://github.com/JuliaBinaryWrappers/JSON_C_jll.jl/releases/download/JSON_C-v0.15.0+0/JSON_C.v0.15.0.armv7l-linux-musleabihf.tar.gz"
+[[JSON_C]]
+arch = "i686"
+git-tree-sha1 = "e0ce244a9de6fd422e258839ff0d991d1ebcf9be"
+libc = "glibc"
+os = "linux"
+
+    [[JSON_C.download]]
+    sha256 = "ac598affc6a7dd608922529dec629e92142b6fcbd5eaaba938f9161c4e6978da"
+    url = "https://github.com/JuliaBinaryWrappers/JSON_C_jll.jl/releases/download/JSON_C-v0.15.0+0/JSON_C.v0.15.0.i686-linux-gnu.tar.gz"
+[[JSON_C]]
+arch = "i686"
+git-tree-sha1 = "5cdf0ccc6f2fdb3964681e31b2bf6efd3fd2d0cb"
+libc = "musl"
+os = "linux"
+
+    [[JSON_C.download]]
+    sha256 = "adc6385413ade21d7e2fbcfb9ace1baeba02470cf93dea8154a89a61e70de6fc"
+    url = "https://github.com/JuliaBinaryWrappers/JSON_C_jll.jl/releases/download/JSON_C-v0.15.0+0/JSON_C.v0.15.0.i686-linux-musl.tar.gz"
+[[JSON_C]]
+arch = "i686"
+git-tree-sha1 = "5a6189ddab1f081f34cd6f4093034dcf9585db43"
+os = "windows"
+
+    [[JSON_C.download]]
+    sha256 = "865dd8e0799280dfcf830c35cbc5586e223b60122fcfe27f5607b64cff864653"
+    url = "https://github.com/JuliaBinaryWrappers/JSON_C_jll.jl/releases/download/JSON_C-v0.15.0+0/JSON_C.v0.15.0.i686-w64-mingw32.tar.gz"
+[[JSON_C]]
+arch = "powerpc64le"
+git-tree-sha1 = "2e10a260037f6cd8a6de0664ee9eb62e14bf3365"
+libc = "glibc"
+os = "linux"
+
+    [[JSON_C.download]]
+    sha256 = "d6e09690a7557f321f6302e2cbf2676dcae99baebb53c794947e103283412f21"
+    url = "https://github.com/JuliaBinaryWrappers/JSON_C_jll.jl/releases/download/JSON_C-v0.15.0+0/JSON_C.v0.15.0.powerpc64le-linux-gnu.tar.gz"
+[[JSON_C]]
+arch = "x86_64"
+git-tree-sha1 = "54b884826069605580010a2a7cf8ef0693eb51c2"
+os = "macos"
+
+    [[JSON_C.download]]
+    sha256 = "c3088e5876b96cb058a7495ed7b7f8f8508e57523b97c48ca14c4d7a9c1302b0"
+    url = "https://github.com/JuliaBinaryWrappers/JSON_C_jll.jl/releases/download/JSON_C-v0.15.0+0/JSON_C.v0.15.0.x86_64-apple-darwin14.tar.gz"
+[[JSON_C]]
+arch = "x86_64"
+git-tree-sha1 = "adea6f751a9b4fa4e36cae7fa5e9a0af91a114dc"
+libc = "glibc"
+os = "linux"
+
+    [[JSON_C.download]]
+    sha256 = "cf75c333b9b4fbc1f160199f67ff9b4d2350661bbdf344ca760fdbf47a27fb40"
+    url = "https://github.com/JuliaBinaryWrappers/JSON_C_jll.jl/releases/download/JSON_C-v0.15.0+0/JSON_C.v0.15.0.x86_64-linux-gnu.tar.gz"
+[[JSON_C]]
+arch = "x86_64"
+git-tree-sha1 = "ed88474cd827f3745d11155b834602c65245d724"
+libc = "musl"
+os = "linux"
+
+    [[JSON_C.download]]
+    sha256 = "6a1191122f37f7fa23a7026dc821549169d065c92ff11c6f8126e001bd52241d"
+    url = "https://github.com/JuliaBinaryWrappers/JSON_C_jll.jl/releases/download/JSON_C-v0.15.0+0/JSON_C.v0.15.0.x86_64-linux-musl.tar.gz"
+[[JSON_C]]
+arch = "x86_64"
+git-tree-sha1 = "1f146029346963637b78444feab290915eca3a56"
+os = "freebsd"
+
+    [[JSON_C.download]]
+    sha256 = "aab98b73970137a30aa3dc7865468c8ee625b0d7514b29360d8107bf23198872"
+    url = "https://github.com/JuliaBinaryWrappers/JSON_C_jll.jl/releases/download/JSON_C-v0.15.0+0/JSON_C.v0.15.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[JSON_C]]
+arch = "x86_64"
+git-tree-sha1 = "1f203957b0ecdc0ed83a23dca7026ccbc65830f7"
+os = "windows"
+
+    [[JSON_C.download]]
+    sha256 = "f58c2158972484cd91e312591e46bf9aeef3c2978bc2f44048e688ecbec94a44"
+    url = "https://github.com/JuliaBinaryWrappers/JSON_C_jll.jl/releases/download/JSON_C-v0.15.0+0/JSON_C.v0.15.0.x86_64-w64-mingw32.tar.gz"

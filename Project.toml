@@ -1,0 +1,10 @@
+name = "JSON_C_jll"
+uuid = "9cdfc4e7-e793-5089-b6f7-569a57a60f0a"
+version = "0.15.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
